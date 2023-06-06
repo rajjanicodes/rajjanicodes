@@ -6,7 +6,7 @@ I am Raj Jani. I am an Associate Data Scientist at Ecom Express Ltd.
 - 🌱 I’m currently learning **PyTorch** and [**Mojo🔥**](https://www.modular.com/mojo).
 - 📫 Reach me at **raj.jani189@gmail.com**
 - 💬 Ask me about **Applied Statistics**.
-- 🤝🏼 I’m looking to collaborate on **Community Centric ML porjects**.
+- 🤝🏼 I’m looking to collaborate on **Community Centric ML projects**.
 
 <br>
 <h3 align="left">Connect with me:</h3>
