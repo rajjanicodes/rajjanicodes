@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Raj Jani. I am an Associate Data Scientist at Ecom Express Ltd.
+I am Raj Jani. I am a Data Scientist at Ecom Express Ltd.
 
-- 🔭 I’m currently working on various NLP projects such as **Text Classification**, **Named Entity Recognition** and **ComputerVision** projects.
-- 🌱 I’m currently learning **PyTorch** and [**Mojo🔥**](https://www.modular.com/mojo).
+- 🔭 I’m currently working on various NLP projects such as **Text Classification**, and **Named Entity Recognition**, as well as a few **ComputerVision** projects.
+- 🌱 I’m currently learning [**Mojo🔥**](https://www.modular.com/mojo).
 - 📫 Reach me at **raj.jani189@gmail.com**
-- 💬 Ask me about **Applied Statistics**.
-- 🤝🏼 I’m looking to collaborate on **LLM projects**.
+- 💬 Ask me about **Named Entity Recognition, Applied Statistics**.
+- 🤝🏼 I’m looking to collaborate on **LLM based projects**.
 
 <br>
 <h3 align="left">Connect with me:</h3>
