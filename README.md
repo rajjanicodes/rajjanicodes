@@ -25,42 +25,42 @@ I am Raj Jani. I am a Data Scientist at Ecom Express Ltd.
 
 <h3 align="left">Languages and ML Frameworks:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org" target="_blank" alt="Link to python.org">
     <img src="Logos/python-original.svg" alt="Python Logo" width="50" height="50"/>
 </a>
-<a href="https://git-scm.com/" target="_blank">
+<a href="https://git-scm.com/" target="_blank" alt="Link to git-scm.com">
     <img src="Logos/git-scm-icon.svg" alt="Git Logo" width="50" height="50"/>
 </a> 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" alt="Link to mysql.com">
     <img src="Logos/mysql-ar21.svg" alt="MySQL Logo" width="100" height="50"/>
 </a> 
 
-<a href="https://tensorflow.org/" target="_blank">
+<a href="https://tensorflow.org/" target="_blank" alt="Link to tensorflow.org">
     <img src="Logos/tensorflow-ar21.svg" alt="TensorFlow Logo" width="100" height="50"/>
 </a>
-<a href="https://pytorch.org/" target="_blank">
+<a href="https://pytorch.org/" target="_blank" alt="Link to pytorch.org">
     <img src="Logos/pytorch-ar21.svg" alt="PyTorch Logo" width="100" height="50"/>
 </a> 
-<a href="https://www.spacy.io/" target="_blank">
+<a href="https://www.spacy.io/" target="_blank" alt="Link to spacy.io">
     <img src="Logos/spacy.svg" alt="spaCy Logo" width="100" height="50"/>
 </a> 
-<a href="https://scikit-learn.org/stable/" target="_blank">
+<a href="https://scikit-learn.org/stable/" target="_blank" alt="Link to scikit-learn.org">
     <img src="Logos/scikit-learn-logo-without-subtitle.svg" alt="SciKit-Learn Logo" width="100" height="50"/>
 </a> 
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer" alt="Link to opencv.org">
     <img src="Logos/OpenCV_logo_black.svg" alt="OpenCV Logo" width="50" height="50"/>
 </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" alt="Link to numpy.org">
     <img src="Logos/numpylogoicon.svg" alt="NumPy Logo" width="50" height="50"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" alt="Link to pandas.pydata.org">
     <img src="Logos/pandas-original.svg" alt="Pandas Logo" width="50" height="50"/>
 </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" alt="Link to seaborn.pydata.org">
     <img src="Logos/seaborn-logo-mark-lightbg.svg" alt="Seaborn Logo" width="50" height="50"/>
 </a>
-<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
+<a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer" alt="Link to statsmodels.org">
     <img src="Logos/statsmodels-logo-v2.svg" alt="StatsModels Logo" width="60" height="50"/>
 </a>
 </p>
