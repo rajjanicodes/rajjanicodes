@@ -12,13 +12,13 @@ I am Raj Jani. I am a Data Scientist at Ecom Express Ltd.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rajjanicodes/" target="blank" alt="Link to my Linkedin profile.">
-    <img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/linked-in-alt.svg" alt="Linkedin Logo" height="35" width="45" />
+    <img align="center" src="Logos/linked-in-alt.svg" alt="Linkedin Logo" height="35" width="45" />
 </a>
 <a href="https://kaggle.com/rajjanicodes" target="blank" alt="Link to my Kaggle profile.">
-    <img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/kaggle.svg" alt="Kaggle Logo" height="35" width="45" />
+    <img align="center" src="Logos/kaggle.svg" alt="Kaggle Logo" height="35" width="45" />
 </a>
 <a href="https://twitter.com/@rajjanicodes" target="blank" alt="Link to my Twitter profile.">
-    <img align="center" src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/twitter.svg" alt="Twitter Logo" height="35" width="45"/>
+    <img align="center" src="Logos/twitter.svg" alt="Twitter Logo" height="35" width="45"/>
 </a>
 </p>
 
@@ -26,42 +26,42 @@ I am Raj Jani. I am a Data Scientist at Ecom Express Ltd.
 <h3 align="left">Languages and ML Frameworks:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/python-original.svg" alt="Python Logo" width="50" height="50"/>
+    <img src="Logos/python-original.svg" alt="Python Logo" width="50" height="50"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/git-scm-icon.svg" alt="Git Logo" width="50" height="50"/>
+    <img src="Logos/git-scm-icon.svg" alt="Git Logo" width="50" height="50"/>
 </a> 
 <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/mysql-ar21.svg" alt="MySQL Logo" width="100" height="50"/>
+    <img src="Logos/mysql-ar21.svg" alt="MySQL Logo" width="100" height="50"/>
 </a> 
 
 <a href="https://tensorflow.org/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/tensorflow-ar21.svg" alt="TensorFlow Logo" width="100" height="50"/>
+    <img src="Logos/tensorflow-ar21.svg" alt="TensorFlow Logo" width="100" height="50"/>
 </a>
 <a href="https://pytorch.org/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/pytorch-ar21.svg" alt="PyTorch Logo" width="100" height="50"/>
+    <img src="Logos/pytorch-ar21.svg" alt="PyTorch Logo" width="100" height="50"/>
 </a> 
 <a href="https://www.spacy.io/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/spacy.svg" alt="spaCy Logo" width="100" height="50"/>
+    <img src="Logos/spacy.svg" alt="spaCy Logo" width="100" height="50"/>
 </a> 
 <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/scikit-learn-logo-without-subtitle.svg" alt="SciKit-Learn Logo" width="100" height="50"/>
+    <img src="Logos/scikit-learn-logo-without-subtitle.svg" alt="SciKit-Learn Logo" width="100" height="50"/>
 </a> 
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/OpenCV_logo_black.svg" alt="OpenCV Logo" width="50" height="50"/>
+    <img src="Logos/OpenCV_logo_black.svg" alt="OpenCV Logo" width="50" height="50"/>
 </a> 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/numpylogoicon.svg" alt="NumPy Logo" width="50" height="50"/>
+    <img src="Logos/numpylogoicon.svg" alt="NumPy Logo" width="50" height="50"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/pandas-original.svg" alt="Pandas Logo" width="50" height="50"/>
+    <img src="Logos/pandas-original.svg" alt="Pandas Logo" width="50" height="50"/>
 </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/seaborn-logo-mark-lightbg.svg" alt="Seaborn Logo" width="50" height="50"/>
+    <img src="Logos/seaborn-logo-mark-lightbg.svg" alt="Seaborn Logo" width="50" height="50"/>
 </a>
 <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rajjanicodes/rajjanicodes/blob/main/Logos/statsmodels-logo-v2.svg" alt="StatsModels Logo" width="60" height="50"/>
+    <img src="Logos/statsmodels-logo-v2.svg" alt="StatsModels Logo" width="60" height="50"/>
 </a>
 </p>
 
